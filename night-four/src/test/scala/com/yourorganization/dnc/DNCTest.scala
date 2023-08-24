@@ -1,4 +1,4 @@
-package example
+package com.yourorganization.dnc
 
 import org.scalatest.funsuite.AnyFunSuite
 import org.scalatest.BeforeAndAfter
