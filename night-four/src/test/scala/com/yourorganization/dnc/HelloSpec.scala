@@ -3,7 +3,7 @@ package example
 import org.scalatest.funsuite.AnyFunSuite
 import org.scalatest.BeforeAndAfter
 import org.scalatest.BeforeAndAfterAll
-
+import com.yourorganization.dnc._
 
 // Tests
 

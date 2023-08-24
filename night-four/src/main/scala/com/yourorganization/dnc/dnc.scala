@@ -1,3 +1,5 @@
+package com.yourorganization.dnc
+
 import org.apache.spark.ml.linalg._
 import org.apache.spark.ml.param._
 import org.apache.spark.ml.ann._
